@@ -1,6 +1,8 @@
 /*solution to problem: Borze
 problem link: https://codeforces.com/problemset/problem/32/B
 contest ID: 32B
+Time Complexity: 
+Space Complexity:
 */
 
 #include <iostream>
